@@ -1,3 +1,7 @@
+# Big-Five-Personality-Detection
+Textual Analysis to detect Big Five Personality Traits of a person.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
