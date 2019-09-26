@@ -110,7 +110,7 @@ class App extends React.Component {
         <div style={container_style}>
           <MuiThemeProvider>
             <AppBar
-              title="Assesshub Personality Analyzer"/>
+              title="Big5 Personality Analyzer"/>
             <div>
 
                   <TextPredictor />
